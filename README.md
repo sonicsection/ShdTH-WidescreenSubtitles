@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Shadow the Hedgehog: Widescreen Subtitles</strong></h1>
 
-![Widescreen_Subtitles](https://github.com/user-attachments/assets/SEU-ID-AQUI/IMAGEM-AQUI.png)
+<img width="1536" height="416" alt="ChatGPT Image 24 de jul  de 2025, 20_55_27" src="https://github.com/user-attachments/assets/b26c2524-bf5b-4002-a7ac-f1504a5bdba6" />
 
 <p align="center">
   The <strong>Widescreen Subtitles</strong> were designed to be a cleaner and improved subtitle system for the widescreen version of <strong>Shadow the Hedgehog Reloaded</strong>.<br>
