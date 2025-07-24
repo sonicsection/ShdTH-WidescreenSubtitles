@@ -27,7 +27,7 @@ I do not plan to release a version with hint balls, as they are considered unnec
 ## What's Included
 
 - `With HUD` and `No HUD` folders with subtitle files.
-- Optional folder: **Reloaded 1.2 Level Files**, which removes hint balls in stages without bosses.
+- **Reloaded 1.2 Level Files**, which removes hint balls in stages without bosses.
 - Compatible and recommended for use with [Ultimate Mode](https://github.com/sonicsection/ShdTH-UltimateMode), enhancing the overall gameplay experience.
 
 ---
