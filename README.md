@@ -43,17 +43,9 @@ Author: BlazinZzetti
 
 ---
 
-## Recommended Fonts
+## Installation Note
 
-If you're interested in using the same subtitle fonts shown in the screenshots, download the **IMPRESS font** from SaturnAdvanced.
-
-🔗 [IMPRESS Font (by SaturnAdvanced)](https://example.com) <!-- Troque pelo link verdadeiro, se disponível -->
-
----
-
-## Installation
-
-It is recommended to apply this mod over the latest version of **Shadow the Hedgehog Reloaded** to ensure compatibility.
+It is recommended to apply this mod over the latest version of **Shadow the Hedgehog Reloaded** Widescreen to ensure compatibility.
 
 🔗 [Download Shadow Reloaded](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded)
 
