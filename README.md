@@ -24,17 +24,10 @@ Originally, there was supposed to be a single version. However, due to current t
 
 ---
 
-## What's Included
-
-- `With HUD` and `No HUD` folders with subtitle files.
-- **Reloaded 1.2 Level Files**, which removes hint balls in stages without bosses.
-- Compatible and recommended for use with [Ultimate Mode](https://github.com/sonicsection/ShdTH-UltimateMode), enhancing the overall gameplay experience.
-
----
-
 ## Installation Note
 
-It is recommended to apply this mod over the latest version of [Shadow Reloaded](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded) Widescreen to ensure compatibility.
+It is recommended to apply this mod over the latest version of [Shadow Reloaded](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded) Widescreen to ensure compatibility. <br>
+Compatible and recommended for use with [Ultimate Mode](https://github.com/sonicsection/ShdTH-UltimateMode), enhancing the overall gameplay experience.
 > All subtitle modifications were made using [ShadowTH Text Editor](https://github.com/ShadowTheHedgehogHacking/ShadowTHTextEditor), and [Heroes Power Plant](https://github.com/igorseabra4/HeroesPowerPlant) to modify the stages, removing all hint balls.
 
 ---
