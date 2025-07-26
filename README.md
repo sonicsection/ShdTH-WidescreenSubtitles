@@ -45,18 +45,7 @@ Author: BlazinZzetti
 
 ## Installation Note
 
-It is recommended to apply this mod over the latest version of **Shadow the Hedgehog Reloaded** Widescreen to ensure compatibility.
-
-🔗 [Download Shadow Reloaded](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded)
-
----
-
-## Follow Sonic Section
-
-**YouTube:** [Sonic Section](https://bit.ly/SonicSection)  
-**Discord:** `@sonicsection`  
-**Gamebanana:** [bit.ly/SonicSection_Gamebanana](https://bit.ly/SonicSection_Gamebanana)  
-**X (Twitter):** [x.com/SonicSection](https://x.com/SonicSection)
+It is recommended to apply this mod over the latest version of [Shadow Reloaded](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded) Widescreen to ensure compatibility.
 
 ---
 
