@@ -16,7 +16,7 @@
 
 There are two available versions:
 
-- <strong>With HUD</strong>: Keep the game's default HUD, just replacing the files in "fonts" folder with the files in "fonts (With HUD)" folder
+- <strong>With HUD</strong>: Keep the game's default HUD, just replacing the files in "fonts" folder with the files in "fonts (With HUD)" folder.
 - <strong>No HUD</strong>: Activate the code below to remove all HUD elements, and replacing the files in "fonts" folder with the files in "fonts (No HUD)" folder.
 > Gecko Code: $No HUD <br> Author: BlazinZzetti <br> 0057D7E8 00000000
 
